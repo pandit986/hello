@@ -1,0 +1,4 @@
+styled-components
+redux toolkit
+react hook form
+yup validation
